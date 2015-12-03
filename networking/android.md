@@ -10,4 +10,3 @@ Available on [F-Droid](https://f-droid.org/)
 
 Not Available on F-Droid or Google Play
 * [cSploit](https://github.com/cSploit/android) : [Website}(http://www.csploit.org/) : GPLv3
-* 
